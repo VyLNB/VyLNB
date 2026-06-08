@@ -5,9 +5,10 @@
 - 👋 I'm Vy Le (Le Ngoc Bich Vy), a fresher developer starting my journey in programming
 - ✉️ You can contact me at vylengocbich.205@gmail.com
 - 🔭 I’m currently studying on Computer Networking and Data Communication at Ton Duc Thang University
-- 📊 I’m interested in Business Analysis and building technology solutions that align with business needs.
-- 🔍 I enjoy analyzing problems, understanding user requirements, and translating them into system features.
-- 🧩 I have a technical background in software development, which helps me understand the Software Development Life Cycle (SDLC) and collaborate effectively with developers.
-- 🛠️ I have experience developing small projects such as web applications (React + NodeJS) and desktop applications (C# WinForms).
-- 📄 I’m currently learning more about requirement analysis, system design, and documentation such as use cases and business requirements.
-- 📈 I am interested in working at the intersection of technology and business, helping teams deliver solutions that meet user and business goals.
+- 💻 I am passionate about Web Development and building user-friendly, scalable web applications.
+- 🚀 I enjoy turning ideas and business requirements into functional and efficient web solutions.
+- 🌐 I have experience developing web applications using React, Node.js, Express.js, and SQL/NoSQL databases.
+- 🔄 I have a solid understanding of the Software Development Life Cycle (SDLC), RESTful APIs, database design, authentication, and responsive UI development.
+- 📚 I am continuously learning new technologies and improving my skills in frontend development, backend development, system design, and software architecture.
+- 🤝 I enjoy collaborating with teams to deliver high-quality products that provide value to users and businesses.
+
